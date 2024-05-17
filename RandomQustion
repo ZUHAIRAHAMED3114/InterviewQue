@@ -79,6 +79,9 @@ c#
 7) why there is a need of get,post,put,delte method.. Explain what is the reason we have to use post vs put. why 
    cannnot we use only single method either get
 8) briefly explin differance between post,put,patch
+
+
+When should you use tracing vs. logging?
 9) why we catch get not post,put,delete
 
 
