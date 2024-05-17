@@ -83,5 +83,8 @@ c#
 
 When should you use tracing vs. logging?
 9) why we catch get not post,put,delete
+------------------------------------------
+10) Imagine you’ve joined the end-to-end testing team of an e-commerce company. Customers complain about intermittent slowness while purchasing shoes. 
+  SOL:-->https://coralogix.com/blog/tracing-vs-logging-what-to-know/
 
 
