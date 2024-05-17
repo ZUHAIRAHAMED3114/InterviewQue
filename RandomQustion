@@ -76,5 +76,8 @@ c#
 4)Desing Asycnhrnous API.. (why we need it what are the different ways )
 5)For Microservice how you will create Foregin Key Constraint
 6)What is Protobuf
+7) why there is a need of get,post,put,delte method.. Explain what is the reason we have to use post vs put. why 
+   cannnot we use only single method either get
+8) briefly explin differance between post,put,patch
 
 
