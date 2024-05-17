@@ -1,0 +1,76 @@
+1)Explain Briefly about Multitenatn,How You are architect
+2)Explain About Your Project Architecture
+3)How you are Doing parallel Task in Mircorservice Aplication
+4)Explain about parallel jobs execution in monolith application
+5)How you are doing Batch Processing and Transaction 
+6) desing api to upload xml,csv files you need to extract those csv data and store in Database
+7) explain about viewModel,why we need ViewModel
+8) What is Unit Of work
+9) Explain concept related to Dispose,without dispose what issue we find,where dispose is used
+10)In Real Time which ActionFilter and where You Used those Filter
+11)Briefly Explain Delagate,Events and Observer Desing Pattern
+12)Briefly Explain Attributes,Reflection
+13)Explain thread sycnrhonization
+---
+Database: 
+----------
+1)How You Remove Duplicate
+2)If 10Million Rows are there my requiremnt is 
+  for each time i need to extract 50 page
+  how you desing a table and how you write a query
+
+3)what is transaction,which transaction will improve the scalablity,which transaction will give consitency
+  actually why we need transaction,purpose of exclusive lock,default transaction level for normal Query
+
+4)Explain how you will improve performance of  Stored Procedur and explain it
+
+Web API
+-------
+ What is REST
+ what is Idempotency
+ what are different methods and status code
+ what are different ways ALternative to Rest
+
+Microservices 
+------------
+ How Two Services are communicating
+ How you are desiging Transaction in Microservicesd
+ Why there is a need of CQRS Pattern
+ What is API Gateway in architecture where you kept
+ How you are handling Failure in MIrcoservices 
+ How you are IMplementing APIGateway
+ what is differeance between loadBalancer and APIGatewat
+
+Asp.Net COre 
+-----------
+ 1)what are custom Middleware used in Your Project
+ 2)Explain Brielfy how Requst flow is Happenign in asp.net COre
+   and what is the Role of Kestral Server
+ 3)How Authroiziation Is Handling in your Project
+ 4)What is Policy Based Authorization
+ 5)What is RateLimiing and Throttling and where you applied
+ 6)why we need filter is middleware are there then which filter you used
+
+c#  
+--
+1) what is muttalbe and immutable how you create immutbale class
+2) what is the reasone we are using dispose method
+3) what is AppDomain
+4) what is Managed and Unmanaged Code
+5) Briefly Explain What is Threading , task, mutex,semaphore,Lock,
+6) what is Reflection,Attribute
+
+---------------------
+1) How will you create dynamic for the Role decorated at the Controller or Action method [Role("Admin")]
+2) What is the Alternative for Cache 
+3) Set Cache time for a Controller or each Action method
+4) How will you Design a System ?
+5) What are the key elements required for a System Design
+6) How will you decide/architect which Pattern will be applied for a method ?
+
+1)what is the need of different scope, how you identity which scope is need for what purpose?
+2)Desing Idempotence API 
+  Scenerio -1 need to create bank account..
+  scenrio-2  need to checkout order of Ecommorce Application
+3)what is cursor offset based pagination
+
