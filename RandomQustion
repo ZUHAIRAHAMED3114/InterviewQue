@@ -98,3 +98,12 @@ Low Level Desing
 ----------------
 Why is Dependecy Injection Needed
 
+
+Basic question asked related to ef
+EntityFrameworkCore Need to Study
+ left Join
+ DbContext,Dbset
+ Required
+ Navigaton
+ EntityFrameworkCoreAttribute
+
