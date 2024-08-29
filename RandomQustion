@@ -107,3 +107,7 @@ EntityFrameworkCore Need to Study
  Navigaton
  EntityFrameworkCoreAttribute
 
+
+Threading:
+=============
+What is the purpose of thread.Join() method
