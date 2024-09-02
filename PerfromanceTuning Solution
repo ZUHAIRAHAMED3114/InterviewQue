@@ -1,0 +1,7 @@
+1)setNoCount on  in sp benefit:->
+2)selecting requried Column
+3)dbo.Shema with schema object..
+4)avoiding Dynamic Query (problmem:-> Sql volnumerablity injection)
+5)using exist instead of Count() benefit;->  with exist index seek, with count() index scan
+6)Transactin when ever required then only
+7)use execution plan to scan index,, based on the column we are creating index required 0r not
