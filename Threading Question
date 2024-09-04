@@ -1,0 +1,17 @@
+  
+ partial class Programm
+ {
+   static int sum=0;
+   stataic void Main(){
+     Thread[] threads=new Thread[10];
+     for(int i=0;i<thread.Lenght;i++){
+       threads[i]=new Thread(()=>{sum++});
+       thread[i].start();
+     }	
+    for(int i=0;i<thread.Lenght;i++){
+       thread[i].join();
+     }	
+    console.WriteLine(sum)
+   }	
+ }
+What will the program actually display when it finishes and all 10 threads have done their job and exited?
